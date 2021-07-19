@@ -1,0 +1,15 @@
+{
+  "name": "ecma2016curso",
+  "version": "1.0.0",
+  "description": "Learning ECMA 2015",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^7.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
